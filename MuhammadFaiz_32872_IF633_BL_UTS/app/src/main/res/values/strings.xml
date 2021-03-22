@@ -1,0 +1,10 @@
+<resources>
+    <string name="uname">Username</string>
+    <string name="pass">Password</string>
+    <string name="loginText">LOG-IN</string>
+    <string name="title">Player</string>
+    <string name="app_name">MP_UTS_32872</string>
+    <string name="nama">Name : FaizRamdhani </string>
+    <string name="nim">NIM : 00000032872</string>
+    <string name="kelas">Class : BL</string>
+</resources>
